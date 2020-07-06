@@ -30,7 +30,7 @@ import java.util.*
  * vector image with a random value between 1 and 6.
  */
 class MainActivity : AppCompatActivity() {
-
+//Testing something
     lateinit var diceImage : ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {

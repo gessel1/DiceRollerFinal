@@ -1,5 +1,7 @@
 Dice Roller Final - Solution Code
 =================================
+//Testing something
+
 
 Solution code for Android Kotlin Fundamentals Codelab 1.3: Image resources
 and compatibility.
